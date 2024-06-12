@@ -7,7 +7,10 @@ Brief work report in PowerBI using a MySQL database stored in Microsoft Azure.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/mazieroes/)
 
 # Work Report with Power BI, Azure and MySQL
-Brief work report in PowerBI using a MySQL database stored in Microsoft Azure. Microsoft Azure MySQL server was used to build a database with querys and store this database.
+Brief work report in PowerBI using a MySQL database stored in Microsoft Azure. Microsoft Azure MySQL server was used to build a database with querys and store this database as project challenge from Python Data Analyst Bootcamp in DIO.
+
+Question: Why use merge instead of append?
+Answer: When using merge, you can think of the SQL "JOIN". The merge provides you the power to choose equal columns from both tables and base the merge on them, creating relations with the other columns of the primary table you choose. Append, on the other hand, as it says, will just append after the last row and won't create any relation, making it not useful in many cases, including the ones of this project.
 
 ### Skills
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
